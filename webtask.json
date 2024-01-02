@@ -3,7 +3,7 @@
   "name": "auth0-authentication-api-debugger",
   "version": "2.1.2",
   "preVersion": "2.1.1",
-  "author": "auth0",
+  "author": "jake",
   "useHashName": false,
   "description": "This extension allows you to test and debug the various Authentication API endpoints",
   "type": "application",
